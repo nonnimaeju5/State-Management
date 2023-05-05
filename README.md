@@ -1,3 +1,7 @@
+# My project uses React Hooks for State Management! (useContext, useEffect, useReducer)
+i decided to create this Counter and followed this tutorial to learn the basics, this tutorial helped me a lot to get a grasp and understand this better   [Tutorial](https://medium.com/@seantheurgel/$react-hooks-as-state-management-usecontext-useeffect-usereducer-a75472a862fe)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
