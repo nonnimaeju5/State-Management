@@ -1,5 +1,5 @@
 import ReactDOM from "react-dom";
-import React, { useState, useContext } from "react";
+import React, { useContext } from "react";
 
 // Import the CounterContext and CounterProvider modules from a custom counterContext file, and import a custom styles.css file.
 import { CounterContext, CounterProvider } from "./counterContext";

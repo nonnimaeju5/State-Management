@@ -1,4 +1,4 @@
-import React, { useReducer, useEffect } from "react";
+import React, { useReducer } from "react";
 
 // Define an initialState object that represents the initial state of a counter. This object has two properties: count, which is initially set to 0, and loading, which is initially set to false.
 const initialState = {
